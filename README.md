@@ -3,9 +3,10 @@ Tübingen Study Group for Homotopy Type Theory
 
 This repository is used for coordinating the Study Group on Homotopy Type Theory in Tübingen and to share articles, links, books, dates, etc...
 ---
+##Doodle Poll
 
 Insert your available time slots in the doodle poll:
-  * Doodle Poll: [Doodle](http://doodle.com/poll/pspsxu986q263bhp)
+[Doodle](http://doodle.com/poll/pspsxu986q263bhp)
 ---
 
 ## Links
