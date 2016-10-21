@@ -5,8 +5,8 @@ This repository is used for coordinating the Study Group on Homotopy Type Theory
 ---
 ##Doodle Poll
 
-Insert your available time slots in the doodle poll:
-[Doodle](http://doodle.com/poll/pspsxu986q263bhp)
+Insert your available time slots in the doodle poll: [Doodle](http://doodle.com/poll/pspsxu986q263bhp)
+
 ---
 
 ## Links
