@@ -17,10 +17,9 @@ The preliminary schedule looks as follows:
   (David + Ingo)
   * __19 Dec 2016__ :
   * __9 Jan 2017__ :
-  * __16 Jan 2017 __:
-  * __23 Jan 2017 __:
+  * __16 Jan 2017__:
+  * __23 Jan 2017__:
   * __30 Jan 2017__ :
-  * ...
 ---
 
 ## Links
