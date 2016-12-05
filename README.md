@@ -20,6 +20,7 @@ The preliminary schedule looks as follows:
   * __16 Jan 2017__:
   * __23 Jan 2017__:
   * __30 Jan 2017__ :
+  
 ---
 
 ## Links
