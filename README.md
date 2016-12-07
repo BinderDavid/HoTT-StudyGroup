@@ -6,20 +6,20 @@ This repository is used for coordinating the Study Group on Homotopy Type Theory
 ##Doodle Poll
 
 Insert your available time slots in the doodle poll: [Doodle](http://doodle.com/poll/pspsxu986q263bhp)
-[We have now settled on the Monday 14-16 timeslot.]
+[We have now settled on the <del>Monday<\del> Tuesday 14-16 timeslot.]
 
 ---
 ##Schedule
-The meetings will take place on Mondays at 12:15 in room A302 at the Sand.
+The meetings will take place on <del>Mondays<\del> Tuesdays  at 14:15 in room <del>A302<\del> C109 at the Sand.
 The preliminary schedule looks as follows:
-  * __12 Dec 2016__ :
+  * __13 Dec 2016__ :
   Organisation of the Reading Group, Backgrounds in Type theory, Introduction to Martin-Löf dependent type theory and its identity types.
   (David + Ingo)
-  * __19 Dec 2016__ :
-  * __9 Jan 2017__ :
-  * __16 Jan 2017__:
-  * __23 Jan 2017__:
-  * __30 Jan 2017__ :
+  * __20 Dec 2016__ :
+  * __10 Jan 2017__ :
+  * __17 Jan 2017__:
+  * __24 Jan 2017__:
+  * __31 Jan 2017__ :
   
 ---
 
