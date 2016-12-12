@@ -15,6 +15,7 @@ The preliminary schedule looks as follows:
   * __13 Dec 2016__ :
   Organisation of the Reading Group, Backgrounds in Type theory, Introduction to Martin-Löf dependent type theory and its identity types.
   (David + Ingo)
+  [Dan Licata on Identity Types](https://homotopytypetheory.org/2011/04/10/just-kidding-understanding-identity-elimination-in-homotopy-type-theory/)
   * __20 Dec 2016__ :
   * __10 Jan 2017__ :
   * __17 Jan 2017__:
