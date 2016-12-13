@@ -10,19 +10,19 @@ Insert your available time slots in the doodle poll: [Doodle](http://doodle.com/
 
 ---
 ##Schedule
-The meetings will take place on <del>Mondays</del> Tuesdays  at <del>14:15</del>14:00 in room <del>A302</del> C109 at the Sand.
+The meetings will take place on <del>Mondays</del> __Tuesdays__  at <del>14:15</del>__14:00__ in room <del>A302</del> __C109__ at the Sand.
 The preliminary schedule looks as follows:
   * __13 Dec 2016__ :
   Organisation of the Reading Group, Backgrounds in Type theory, Introduction to Martin-Löf dependent type theory and its identity types. (David + Ingo)
+  
   In the first meeting we discussed:
 
-  1. The two kinds of judgments of Martin-Löf type theory
-  2. The FIEC-Schema for introducing new types (Formation, Introduction, Elimination, Computation Rules)
-  3. Nondependent Product and Sum Types
-  4. Dependent Function Type (= Pi Type) and Dependent Product Type (= Sigma Type)
-  5. The Type of natural numbers
-  6. The provability of the type-theoretic version of the Axiom of Choice
-  (David + Ingo)
+  1. The two kinds of judgments of Martin-Löf type theory.
+  2. The FIEC-Schema for introducing new types (Formation, Introduction, Elimination, Computation Rules).
+  3. Nondependent Product and Sum Types.
+  4. Dependent Function Type (= Pi Type) and Dependent Product Type (= Sigma Type).
+  5. The Type of natural numbers.
+  6. The provability of the type-theoretic version of the Axiom of Choice.
   
   * __20 Dec 2016__ : We will discuss chapter 1 of the HoTT book, wrap up the remaining questions about the dependent function + product types and probably concentrate on the Identity-Type (propositional Identity) (Ingo)
 
