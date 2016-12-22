@@ -56,4 +56,4 @@ The preliminary schedule looks as follows:
 ## Computer Implementations of HoTT
   * Coq Library on Github: [Github](https://github.com/HoTT/HoTT)
   * Agda Library on Github: [Github](https://github.com/HoTT/HoTT-Agda)
-  * Lean Library on Github: [Github](https://github.com/leanprover/lean/tree/master/hott)
+  * Lean 0.2 Library on Github: [Github](https://github.com/leanprover/lean2/tree/master/hott)
