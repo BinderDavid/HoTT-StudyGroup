@@ -49,6 +49,7 @@ The preliminary schedule looks as follows:
   * Robert Harper's Video Lectures: [Lectures](https://www.cs.cmu.edu/~rwh/courses/hott/)
   * nLab Article: [nLab](https://ncatlab.org/nlab/show/homotopy+type+theory)
   * Wikipedia Article: [Wikipedia](https://en.wikipedia.org/wiki/Homotopy_type_theory)
+  * Video List from the Fields Institute Workshop: [Fields Institute](http://www.fields.utoronto.ca/video-archive/event/2012)
 
 
 ---
