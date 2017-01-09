@@ -38,6 +38,8 @@ The preliminary schedule looks as follows:
   [Dan Licata on Identity Types](https://homotopytypetheory.org/2011/04/10/just-kidding-understanding-identity-elimination-in-homotopy-type-theory/)
   
   * __10 Jan 2017__ : We will discuss from Chapter 2 the beginning until section 2.4 inclusive. (Philipp)
+  
+  [Groupoids and Puzzles](https://cornellmath.wordpress.com/2008/01/27/puzzles-groups-and-groupoids/)
   * __17 Jan 2017__:
   * __24 Jan 2017__:
   * __31 Jan 2017__ :
