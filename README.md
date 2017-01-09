@@ -40,6 +40,7 @@ The preliminary schedule looks as follows:
   * __10 Jan 2017__ : We will discuss from Chapter 2 the beginning until section 2.4 inclusive. (Philipp)
   
   [Groupoids and Puzzles](https://cornellmath.wordpress.com/2008/01/27/puzzles-groups-and-groupoids/)
+  [Alan Weinstein on Groupoids (PDF)](http://www.ams.org/notices/199607/weinstein.pdf)
   * __17 Jan 2017__:
   * __24 Jan 2017__:
   * __31 Jan 2017__ :
