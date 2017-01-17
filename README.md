@@ -41,8 +41,13 @@ The preliminary schedule looks as follows:
   
   [Groupoids and Puzzles](https://cornellmath.wordpress.com/2008/01/27/puzzles-groups-and-groupoids/)
   [Alan Weinstein on Groupoids (PDF)](http://www.ams.org/notices/199607/weinstein.pdf)
+  
   * __17 Jan 2017__:
-  * __24 Jan 2017__:
+  
+  * __24 Jan 2017__: We dicuss Ladyman's alternative justification for path induction and the encode/decode pattern.
+  
+  [Identity in Homotopy Type Theory, Part I: The Justification of Path Induction](http://philsci-archive.pitt.edu/11079/1/Identity_in_HTT_public.pdf)
+  
   * __31 Jan 2017__ :
   
 ---
