@@ -48,7 +48,7 @@ The preliminary schedule looks as follows:
   
   [Identity in Homotopy Type Theory, Part I: The Justification of Path Induction](http://philsci-archive.pitt.edu/11079/1/Identity_in_HTT_public.pdf)
   
-  * __31 Jan 2017__ : We discussed sections 2.12--2.14.
+  * __31 Jan 2017__ : We discussed sections 2.12 to 2.14.
   This mainly involved the characterization of positive types using the code-decode-procedure.
 
   * __07 Feb 2017__ : We will discuss the beginning of Chapter 3 until section 3.4 inclusive. (Ingo)
