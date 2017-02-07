@@ -52,6 +52,13 @@ The preliminary schedule looks as follows:
   This mainly involved the characterization of positive types using the code-decode-procedure.
 
   * __07 Feb 2017__ : We will discuss the beginning of Chapter 3 until section 3.4 inclusive. (Ingo)
+
+    We discussed:
+    1. The incompatibility of Univalence and LEM
+    2. The trivial truth of AC in its "naive" form
+    3. (Non-)Existence of relationships between `isProp`, `isSet`, `Dec` and `DecEq`.
+
+  * __14 Feb 2017__ : We will discuss the second half of Chapter 3 (sections 3.5&ndash;3.11). (Philipp)
   
 ---
 
