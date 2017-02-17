@@ -60,6 +60,7 @@ The preliminary schedule looks as follows:
 
   * __14 Feb 2017__ : We will discuss the second half of Chapter 3 (sections 3.5&ndash;3.11). (Philipp)
   
+  * __21 Feb 2017__ : We will discuss the rest of Chapter 3, skip Chapter 4 and continue with Chapter 5 (until 5.3, W-Types)
 ---
 
 ## Links
@@ -68,6 +69,7 @@ The preliminary schedule looks as follows:
   * nLab Article: [nLab](https://ncatlab.org/nlab/show/homotopy+type+theory)
   * Wikipedia Article: [Wikipedia](https://en.wikipedia.org/wiki/Homotopy_type_theory)
   * Video List from the Fields Institute Workshop: [Fields Institute](http://www.fields.utoronto.ca/video-archive/event/2012)
+  * A Meaning Explanation of HoTT: [FOM Mailing List](http://www.cs.nyu.edu/pipermail/fom/2017-February/020307.html)
 
 
 ---
