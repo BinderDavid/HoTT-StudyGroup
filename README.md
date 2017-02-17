@@ -59,8 +59,10 @@ The preliminary schedule looks as follows:
     3. (Non-)Existence of relationships between `isProp`, `isSet`, `Dec` and `DecEq`.
 
   * __14 Feb 2017__ : We will discuss the second half of Chapter 3 (sections 3.5&ndash;3.11). (Philipp)
-  
+
+
   * __21 Feb 2017__ : We will discuss the rest of Chapter 3, skip Chapter 4 and continue with Chapter 5 (until 5.3, W-Types)
+
 ---
 
 ## Links
