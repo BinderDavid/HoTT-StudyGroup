@@ -63,6 +63,12 @@ The preliminary schedule looks as follows:
 
   * __21 Feb 2017__ : We will discuss the rest of Chapter 3, skip Chapter 4 and continue with Chapter 5 (until 5.3, W-Types)
 
+    We discussed:
+    1. Contractibility
+    2. W-types
+
+  * __04 Apr 2017__ : We will discuss sections 5.4 to 5.6.
+
 ---
 
 ## Links
