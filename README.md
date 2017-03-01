@@ -78,6 +78,7 @@ The preliminary schedule looks as follows:
   * Wikipedia Article: [Wikipedia](https://en.wikipedia.org/wiki/Homotopy_type_theory)
   * Video List from the Fields Institute Workshop: [Fields Institute](http://www.fields.utoronto.ca/video-archive/event/2012)
   * A Meaning Explanation of HoTT: [FOM Mailing List](http://www.cs.nyu.edu/pipermail/fom/2017-February/020307.html)
+  * Lean Tutorial by Jeremy Avigad: [Tutorial](https://avigad.github.io/logic_and_proof/)
 
 
 ---
