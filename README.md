@@ -69,6 +69,13 @@ The preliminary schedule looks as follows:
 
   * __04 Apr 2017__ : We will discuss sections 5.4 to 5.6.
 
+    We discussed:
+    1. Proof of isSet(Universe)
+    2. Inductive types as initial algebras
+    3. F-algebras in general
+
+  * __11 Apr 2017__ : We will discuss the rest of Chapter 5, starting at 5.6. (Philipp)
+
 ---
 
 ## Links
@@ -79,6 +86,7 @@ The preliminary schedule looks as follows:
   * Video List from the Fields Institute Workshop: [Fields Institute](http://www.fields.utoronto.ca/video-archive/event/2012)
   * A Meaning Explanation of HoTT: [FOM Mailing List](http://www.cs.nyu.edu/pipermail/fom/2017-February/020307.html)
   * Lean Tutorial by Jeremy Avigad: [Tutorial](https://avigad.github.io/logic_and_proof/)
+  * FOMUS talks on youtube: [FOMUS 2016](https://www.youtube.com/channel/UCKaadwPtdsKwsWTLZ8GGxCA)
 
 
 ---
