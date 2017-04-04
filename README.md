@@ -72,7 +72,7 @@ The preliminary schedule looks as follows:
     We discussed:
     1. Proof of isSet(Universe)
     2. Inductive types as initial algebras
-    3. F-algebras in general
+    3. F-algebras in general [Bartosz Milewski on F-Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras)
 
   * __11 Apr 2017__ : We will discuss the rest of Chapter 5, starting at 5.6. (Philipp)
 
