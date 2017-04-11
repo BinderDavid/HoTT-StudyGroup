@@ -76,6 +76,13 @@ The preliminary schedule looks as follows:
 
   * __11 Apr 2017__ : We will discuss the rest of Chapter 5, starting at 5.6. (Philipp)
 
+    We discussed:
+    1. Generalizations of Inductive Types (in particular inductive-inductive and inductive-recursive)
+    2. "Free generation" of inductively defined types
+    3. Exercises 5.1, 5.2 and 5.7
+
+  * __18 Apr 2017__ : We will discuss the the beginning Chapter 6, Sections 6.1 until 6.3 (Ingo)
+
 ---
 
 ## Links
