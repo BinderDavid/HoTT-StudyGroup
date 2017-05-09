@@ -83,6 +83,23 @@ The preliminary schedule looks as follows:
 
   * __18 Apr 2017__ : We will discuss the the beginning Chapter 6, Sections 6.1 until 6.3 (Ingo)
 
+    Skipped
+
+  * __25 Apr 2017__ : see 18 Apr
+
+    We discussed: this.
+
+  * __2 Mar 2017__ : We will discuss Sections 6.4 until 6.5 (David)
+
+    We discussed: this.
+
+  * __9 Mar 2017__ : We will discuss Sections 6.8 until 6.10 (Philipp)
+    
+    We discussed:
+    1. categorical constructions in detail ((co-)equalizers, pullback, pushouts, etc)
+    2. topological constructions (suspension, join, cofiber, wedge, smash product) as pushouts
+
+  * __16 Mar 2017__ : We will discuss Sections 6.9 until 6.11
 ---
 
 ## Links
