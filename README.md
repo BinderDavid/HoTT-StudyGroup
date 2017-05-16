@@ -102,7 +102,9 @@ The preliminary schedule looks as follows:
   * __16 Mar 2017__ : We will discuss Sections 6.9 until 6.11
 
     We discussed:
-    1. 
+    1. Truncations (shortly)
+    2. Quotients (shortly)
+    3. Algebras as HIT
 
   * __30 Mar 2017__ : Cubical Type Theory
 
