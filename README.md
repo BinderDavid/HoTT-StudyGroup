@@ -100,6 +100,16 @@ The preliminary schedule looks as follows:
     2. topological constructions (suspension, join, cofiber, wedge, smash product) as pushouts
 
   * __16 Mar 2017__ : We will discuss Sections 6.9 until 6.11
+
+    We discussed:
+    1. 
+
+  * __30 Mar 2017__ : Cubical Type Theory
+
+    Possible sources:
+    1. Angiuli, Harper, Wilson: [Computational Higher-Dimensional Type Theory](http://www.cs.cmu.edu/~rwh/papers/chitt/popl17.pdf)
+    2. Clive Newstead: [Cubical sets](http://math.cmu.edu/~cnewstea/notes/cubicalsets.pdf)
+    3. Cohen, Coquand, Huber, Mörtberg: [Cubical Type Theory: a constructive interpretation of the univalence axiom](http://www.cse.chalmers.se/~simonhu/papers/cubicaltt.pdf)
 ---
 
 ## Links
